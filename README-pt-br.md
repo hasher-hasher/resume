@@ -1,11 +1,11 @@
 # Renan Oliveira de Azevedo Rocha
 
-**Localização**: Brasília - Brazil
-**Telefone**: +55 61 99161 2869
-**Blog**: [renanhasher.com](http://renanhasher.com)
-**E-mail**: [renanoar04@gmail.com](mailto:renanoar04@gmail.com)
-**Skype**: renan.oliveira04
-**Github**: [hasher-hasher](https://github.com/hasher-hasher)
+**Localização**: Brasília - Brazil<br>
+**Telefone**: +55 61 99161 2869<br>
+**Blog**: [renanhasher.com](http://renanhasher.com)<br>
+**E-mail**: [renanoar04@gmail.com](mailto:renanoar04@gmail.com)<br>
+**Skype**: renan.oliveira04<br>
+**Github**: [hasher-hasher](https://github.com/hasher-hasher)<br>
 
 ## Sobre mim
 

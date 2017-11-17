@@ -22,6 +22,9 @@ Colaborar com ferramentas que eu utilizo é uma das coisas que me despertam inte
 * PHP
 * Git
 * Postgresql
+* Unity3D Framework
+* UnityScript C#
+* Desenvolvimento de Jogos Digitais
 
 ## Experiencias de Trabalho
 

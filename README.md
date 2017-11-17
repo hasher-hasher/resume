@@ -22,6 +22,9 @@ Collab and help the projects that i use to use is one thing i really like to do.
 * PHP
 * Git
 * Postgresql
+* Unity3D Framework
+* UnityScript C#
+* Game Development
 
 ## Work Experience
 

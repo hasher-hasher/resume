@@ -43,11 +43,11 @@ Collab and help the projects that i use to use is one thing i really like to do.
 > Helping students of hardware architecture subjects in college.
 
 **Developer** - [LightBase](http://www.lightbase.com.br) - April/2013 - September/2014
-> A data processing system which collect data from public services and generate graphical analysis. Main tasks are develop backend logic and complete frontend interface connecting with RESTFUL API.
+> A data processing system which collect data from public services and generate graphical analysis. Main tasks are develop backend logic and complete frontend interface connecting with RESTFUL API.<br>
 Stack: Pyramid, Jquery, Sencha, PostgreSQL and SVN.
 
 **Game Developer** - [FiraSoft](http://www.firasoft.com.br) - Set/2014 - Nov/2014
-> Game Developer Using Unity3D Framework for an inside project.
+> Game Developer Using Unity3D Framework for an inside project.<br>
 Stack: Unity3D, Visual Studio, Git
 
 **Game Development Lessons** - [PRONATEC](http://portal.mec.gov.br/pronatec) - Jan/2015 - Jun/2015
@@ -60,7 +60,7 @@ Stack: Unity3D, Visual Studio, Git
 > Developing and designing games for Android/Win/Mac/Linux Using Unity3D Framework.
 
 **Developer** - [Websis](http://websis.com.br) - April/2017 - Present
-> A huge system manager for the public service used to manage college classes and institutional information. Main tasks are develop smart manage solutions with excellence and build development workflow.
+> A huge system manager for the public service used to manage college classes and institutional information. Main tasks are develop smart manage solutions with excellence and build development workflow.<br>
 Stack: Django, Jquery, Bootstrap, PostgreSQL, Docker and Git.
 
 ## Education
